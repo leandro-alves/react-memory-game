@@ -1,2 +1,5 @@
-# react-memory-game
-Memory game project in React
+# Memory Game
+
+Memory game project in React.
+
+
